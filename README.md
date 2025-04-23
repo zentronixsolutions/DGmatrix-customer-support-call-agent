@@ -17,3 +17,11 @@ npm install
 ```javascript
 npm run dev
 ```
+
+## Build the Project 
+
+```javascript
+npm run build
+```
+
+
