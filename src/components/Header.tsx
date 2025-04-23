@@ -50,7 +50,7 @@ const Header = () => {
           </ul>
           <div className="flex items-center ml-6">
             <Phone size={18} className="text-dgblue mr-2" />
-            <span className="font-medium text-dgblue">abcdscsd</span>
+            <span className="font-medium text-dgblue">+1 (385) 383 0407</span>
           </div>
         </nav>
 
