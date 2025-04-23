@@ -1,4 +1,3 @@
-// Tailwind CSS configuration file
 
 import type { Config } from "tailwindcss";
 
