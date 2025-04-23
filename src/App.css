@@ -1,0 +1,43 @@
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Remove the container max-width to allow full-width sections */
+.container {
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Smooth scrolling for anchor links */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 80px; /* To account for fixed header */
+}
+
+/* Support for our custom classes */
+.bg-dgblue {
+  background-color: #1A3A6C;
+}
+
+.bg-dggreen {
+  background-color: #4CAF50;
+}
+
+.bg-dgorange {
+  background-color: #FF5722;
+}
+
+.text-dgblue {
+  color: #1A3A6C;
+}
+
+.text-dggreen {
+  color: #4CAF50;
+}
+
+.text-dgorange {
+  color: #FF5722;
+}
